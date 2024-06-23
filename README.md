@@ -1,7 +1,8 @@
-### Hi there 👋 Imagineguy here!
+### Hi there 👋 Abhinav here!
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning on Backend Development
+- 🔭 I’m a Computer Science Student
+- 🌱 I’m a MERN stack Developer
+- 🌱 Web Dev Enthusiast
 
 - 📫 How to reach me: On LinkedIN!
 
