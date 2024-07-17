@@ -1,4 +1,6 @@
-### 👋 Hi there! I'm Abhinava from Mangalore, India.
+### 👋 Hi there! I'm Abhinava
+
+📍Mangalore, India.
 
 🔭 I’m a Computer Science Student
 
