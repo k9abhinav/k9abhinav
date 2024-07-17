@@ -12,6 +12,7 @@
 - **Other Tools:** VS Code
 
 🌱 **Currently Learning**
+
 I am dedicated to advancing my frontend and backend development capabilities to further strengthen my full stack expertise. 
 I constantly seek to explore new technologies and frameworks to remain at the forefront of the latest trends in web development.
 
