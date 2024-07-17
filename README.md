@@ -19,8 +19,10 @@ I constantly seek to explore new technologies and frameworks to remain at the fo
 📚 Continuously learning new concepts and technologies
 
 🛠️ **Projects**
+
 You can explore more of my work by browsing through my repositories.
 
 📫 **Get in Touch**
+
 📫 How to reach me: On LinkedIn!
  Email : [abhinava03kks@gmail.com](mailto:abhinava03kks@gmail.com)
