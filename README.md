@@ -24,6 +24,8 @@ I constantly seek to explore new technologies and frameworks to remain at the fo
 
 You can explore more of my work by browsing through my repositories.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k9abhinav)](https://github.com/k9abhinav/github-readme-stats)
+
 
 📫 How to reach me: On LinkedIn!
  Email : [abhinava03kks@gmail.com](mailto:abhinava03kks@gmail.com)
