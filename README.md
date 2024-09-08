@@ -1,5 +1,7 @@
 ### 👋 Hi there! I'm Abhinava
 
+<p align="left"> <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=k9abhinav&label=Profile%20views&color=0e75b6&style=flat" alt="k9abhinav" /> </p>
+
 📍Mangalore, India.
 
 🔭 I’m a Computer Science Student
