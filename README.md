@@ -4,9 +4,8 @@
 
 📍Mangalore, India.
 
-🔭 I’m a Computer Science Student
 
-🌱 I’m a MERN stack Developer
+🌱 I’m a Software Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,16 +24,14 @@
 
 
 🔧 **Technologies & Tools**
-- **Frontend:** HTML, CSS, JavaScript, React JS , EJS , Tailwind CSS , GSAP
-- **Backend:** Node.js, Express.js
-- **Database:** MySQL, MongoDB
-- **Version Control:** Git
-- **Other Tools:** VS Code
+- **Frontend:** HTML, CSS, JavaScript, React JS , Angular, EJS , Tailwind CSS , GSAP
+- **Backend:** SpringBoot, Spring MVC, Node.js, Express.js, FastAPI
+- **Database:** PostgreSQL, MongoDB
 
 🌱 **Currently Learning**
 
 I am dedicated to advancing my frontend and backend development capabilities to further strengthen my full stack expertise. 
-I constantly seek to explore new technologies and frameworks to remain at the forefront of the latest trends in web development.
+I constantly seek to explore new technologies and frameworks to remain at the forefront of the latest trends in Software Development and AI.
 
 📚 Continuously learning new concepts and technologies
 
