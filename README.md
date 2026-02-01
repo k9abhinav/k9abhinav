@@ -18,9 +18,6 @@
 - **Backend:** SpringBoot, Spring MVC, Node.js, Express.js, FastAPI
 - **Database:** PostgreSQL, MongoDB
 
-🌱 **Currently Learning**
-
-I am dedicated to advancing my frontend and backend development capabilities to further strengthen my full stack expertise. 
 I constantly seek to explore new technologies and frameworks to remain at the forefront of the latest trends in Software Development and AI.
 
 📚 Continuously learning new concepts and technologies
