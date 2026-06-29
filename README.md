@@ -15,7 +15,7 @@
 
 🔧 **Technologies & Tools**
 - **Frontend:** HTML, CSS, JavaScript, React JS , Angular, EJS , Tailwind CSS , GSAP
-- **Backend:** SpringBoot, Spring MVC, Node.js, Express.js, FastAPI
+- **Backend:** SpringBoot, Spring MVC, Node.js, Express.js, Python FastAPI
 - **Database:** PostgreSQL, MongoDB
 
 I constantly seek to explore new technologies and frameworks to remain at the forefront of the latest trends in Software Development and AI.
