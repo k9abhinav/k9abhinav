@@ -4,9 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=k9abhinav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-💻 **Software Engineer | Full Stack Developer | Backend & AI Enthusiast**
+**Software Engineer | Full Stack Developer | Backend & AI Enthusiast | System Design | Swift iOS & MacOS**
 
-📍 Mangalore, Karnataka, India 🇮🇳
+📍 Silicon Beach of India, India 🇮🇳 
+<a href"https://maps.app.goo.gl/L6VKu8KFFB6bK7yDA" target="_blank" >
 
 I build scalable, high-performance software with a strong focus on **backend engineering**, **AI-powered applications**, and modern web technologies.
 
