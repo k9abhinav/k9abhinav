@@ -6,9 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+Abhinava+Krishna;Software+Engineer+%7C+Backend+Engineer;AI+Builder+%7C+System+Design+Enthusiast;Building+AI+ERP+for+SMEs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abhinavakrishna&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
-</p>
+
 
 </div>
 
