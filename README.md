@@ -7,7 +7,7 @@
 **Software Engineer | Full Stack Developer | Backend & AI Enthusiast | System Design | Swift iOS & MacOS**
 
 📍 Silicon Beach of India, India 🇮🇳 
-<a href"https://maps.app.goo.gl/L6VKu8KFFB6bK7yDA" target="_blank" >
+<a href="https://maps.app.goo.gl/L6VKu8KFFB6bK7yDA" target="_blank" >
 
 I build scalable, high-performance software with a strong focus on **backend engineering**, **AI-powered applications**, and modern web technologies.
 
