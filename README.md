@@ -1,96 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Abhinava%20Krishna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Builder%20%7C%20System%20Design&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=250&section=header&text=Abhinava%20Krishna&fontSize=46&fontColor=00f5ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20·%20AI%20Builder%20·%20System%20Design&descAlignY=55&descSize=16&descColor=ffffff" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+Abhinava+Krishna;Software+Engineer+%7C+Backend+Engineer;AI+Builder+%7C+System+Design+Enthusiast;Building+AI+ERP+for+SMEs+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=whoami+%3D%3E+abhinava_krishna;role+%3D+%5B%27backend%27%2C+%27ai_builder%27%5D;status+%3D+%27shipping...%27" alt="Typing SVG" /></a>
 
+<br/><br/>
 
+<img src="https://img.shields.io/badge/-AI%20ERP%20FOR%20SMEs-00F5FF?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/-AGENTIC%20AI-FF00E5?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/-SYSTEM%20DESIGN-FFD700?style=flat-square&labelColor=0a0a0a" />
 
 </div>
 
----
+<br/>
 
-### `$ cat about.md`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00E5&height=2&width=100%25" width="100%"/>
 
-```yaml
-name: Abhinava Krishna
-role: [Software Engineer, Backend Engineer, AI Builder]
-currently_building:
-  - AI ERP for SMEs
-  - AI Workflow Automation
-  - Agentic AI Systems
-mission: "Building products that solve real business problems."
-status: "compiling ideas into production 🔧"
+<br/>
+
+## ⚡ about
+
+```ts
+const abhinava = {
+  role: ["Backend Engineer", "AI Builder", "System Design"],
+  building: ["AI ERP for SMEs", "AI Workflow Automation", "Agentic Systems"],
+  mission: "Products that solve real business problems",
+  mode: "compiling ideas into production 🔧",
+};
 ```
 
----
+<br/>
 
-### `$ ls skills/`
+## 🧠 stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=Blueprint&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,angular,react,postgres,docker,kafka&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=blueprint&logoColor=FF00E5" />
 
 </div>
 
----
+<br/>
 
-### `$ git log --currently-building`
-
-```
-> AI ERP for SMEs           ████████████████░░░░  building
-> AI Workflow Automation     ██████████████░░░░░░  building
-> Agentic AI                ██████████░░░░░░░░░░  exploring
-```
-
----
-
-### `$ cat interests.txt`
-
-> Building products that solve **real business problems** — not just cool tech for the sake of it. I care about the gap between "it works in a demo" and "it works in production, at scale, for someone paying for it."
-
----
-
-### `$ github-stats --verbose`
+## 🚧 currently building
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinavakrishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavakrishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavakrishna&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
+| project | status | progress |
+|:--|:--:|:--|
+| **AI ERP for SMEs** | `building` | ![](https://progress-bar.xyz/75?title=&color=00F5FF&width=160&suffix=%20&barColor=00F5FF) |
+| **AI Workflow Automation** | `building` | ![](https://progress-bar.xyz/60?title=&color=FF00E5&width=160&suffix=%20&barColor=FF00E5) |
+| **Agentic AI Systems** | `exploring` | ![](https://progress-bar.xyz/40?title=&color=FFD700&width=160&suffix=%20&barColor=FFD700) |
 
 </div>
 
----
+<br/>
 
-### `$ contact --resolve`
+> *"I care about the gap between it works in a demo and it works in production, at scale, for someone paying for it."*
+
+<br/>
+
+## 📊 stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavakrishna)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinava03kks@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinavakrishna&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9&ring_color=00F5FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavakrishna&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&text_color=c9d1d9&langs_count=6"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavakrishna&hide_border=true&background=0a0a0a&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
----
+<br/>
+
+## 🔗 connect
 
 <div align="center">
 
-### `$ exit`
+<a href="https://linkedin.com/in/abhinavakrishna"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+<a href="mailto:abhinava03kks@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
 
-**See you around 👋**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<sub>thanks for stopping by 👋</sub>
 </div>
